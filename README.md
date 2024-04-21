@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Divyansh Divyansh Jangir</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyansh141&label=Profile%20views&color=0e75b6&style=flat" alt="divyansh141" /> </p>
 
 <h3 align="left">I have worked on:</h3>
 <p align="left">
